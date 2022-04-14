@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO_ConstrutoresEncapsulamento", "POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento.csproj", "{5D5AE37D-CF0A-4CE3-933B-25173AF9CAF1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3BF3A59B-E63C-4903-94EF-7254D892D0EE}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D5AE37D-CF0A-4CE3-933B-25173AF9CAF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5AE37D-CF0A-4CE3-933B-25173AF9CAF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5AE37D-CF0A-4CE3-933B-25173AF9CAF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5AE37D-CF0A-4CE3-933B-25173AF9CAF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A345FF-6821-42B0-A5CE-0FD69AC030C7}
+	EndGlobalSection
+EndGlobal

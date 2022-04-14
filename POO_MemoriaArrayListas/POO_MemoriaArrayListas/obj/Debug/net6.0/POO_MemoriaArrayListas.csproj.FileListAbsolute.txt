@@ -1,0 +1,15 @@
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\bin\Debug\net6.0\POO_MemoriaArrayListas.exe
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\bin\Debug\net6.0\POO_MemoriaArrayListas.deps.json
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\bin\Debug\net6.0\POO_MemoriaArrayListas.runtimeconfig.json
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\bin\Debug\net6.0\POO_MemoriaArrayListas.dll
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\bin\Debug\net6.0\POO_MemoriaArrayListas.pdb
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\obj\Debug\net6.0\POO_MemoriaArrayListas.csproj.AssemblyReference.cache
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\obj\Debug\net6.0\POO_MemoriaArrayListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\obj\Debug\net6.0\POO_MemoriaArrayListas.AssemblyInfoInputs.cache
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\obj\Debug\net6.0\POO_MemoriaArrayListas.AssemblyInfo.cs
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\obj\Debug\net6.0\POO_MemoriaArrayListas.csproj.CoreCompileInputs.cache
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\obj\Debug\net6.0\POO_MemoriaArrayListas.dll
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\obj\Debug\net6.0\refint\POO_MemoriaArrayListas.dll
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\obj\Debug\net6.0\POO_MemoriaArrayListas.pdb
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\obj\Debug\net6.0\POO_MemoriaArrayListas.genruntimeconfig.cache
+C:\Users\wende\Desktop\Programação\C#\POO_MemoriaArrayListas\POO_MemoriaArrayListas\obj\Debug\net6.0\ref\POO_MemoriaArrayListas.dll

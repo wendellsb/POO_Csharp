@@ -1,0 +1,15 @@
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\bin\Debug\net6.0\LogicaProgC#.exe
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\bin\Debug\net6.0\LogicaProgC#.deps.json
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\bin\Debug\net6.0\LogicaProgC#.runtimeconfig.json
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\bin\Debug\net6.0\LogicaProgC#.dll
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\bin\Debug\net6.0\LogicaProgC#.pdb
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\obj\Debug\net6.0\LogicaProgC#.csproj.AssemblyReference.cache
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\obj\Debug\net6.0\LogicaProgC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\obj\Debug\net6.0\LogicaProgC#.AssemblyInfoInputs.cache
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\obj\Debug\net6.0\LogicaProgC#.AssemblyInfo.cs
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\obj\Debug\net6.0\LogicaProgC#.csproj.CoreCompileInputs.cache
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\obj\Debug\net6.0\LogicaProgC#.dll
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\obj\Debug\net6.0\refint\LogicaProgC#.dll
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\obj\Debug\net6.0\LogicaProgC#.pdb
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\obj\Debug\net6.0\LogicaProgC#.genruntimeconfig.cache
+C:\Users\wende\Desktop\Programação\C#\LogicaProgC#\obj\Debug\net6.0\ref\LogicaProgC#.dll

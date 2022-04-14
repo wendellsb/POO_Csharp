@@ -1,0 +1,15 @@
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\bin\Debug\net6.0\POO_ConstrutoresEncapsulamento.exe
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\bin\Debug\net6.0\POO_ConstrutoresEncapsulamento.deps.json
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\bin\Debug\net6.0\POO_ConstrutoresEncapsulamento.runtimeconfig.json
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\bin\Debug\net6.0\POO_ConstrutoresEncapsulamento.dll
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\bin\Debug\net6.0\POO_ConstrutoresEncapsulamento.pdb
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\obj\Debug\net6.0\POO_ConstrutoresEncapsulamento.csproj.AssemblyReference.cache
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\obj\Debug\net6.0\POO_ConstrutoresEncapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\obj\Debug\net6.0\POO_ConstrutoresEncapsulamento.AssemblyInfoInputs.cache
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\obj\Debug\net6.0\POO_ConstrutoresEncapsulamento.AssemblyInfo.cs
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\obj\Debug\net6.0\POO_ConstrutoresEncapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\obj\Debug\net6.0\POO_ConstrutoresEncapsulamento.dll
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\obj\Debug\net6.0\refint\POO_ConstrutoresEncapsulamento.dll
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\obj\Debug\net6.0\POO_ConstrutoresEncapsulamento.pdb
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\obj\Debug\net6.0\POO_ConstrutoresEncapsulamento.genruntimeconfig.cache
+C:\Users\wende\Desktop\Programação\C#\POO_ConstrutoresEncapsulamento\POO_ConstrutoresEncapsulamento\obj\Debug\net6.0\ref\POO_ConstrutoresEncapsulamento.dll
