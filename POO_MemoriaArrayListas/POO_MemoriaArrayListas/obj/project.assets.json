@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\wende\\.nuget\\packages\\": {}
+    "C:\\Users\\Wendell\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wende\\Desktop\\Programação\\C#\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas.csproj",
+      "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas.csproj",
       "projectName": "POO_MemoriaArrayListas",
-      "projectPath": "C:\\Users\\wende\\Desktop\\Programação\\C#\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas.csproj",
-      "packagesPath": "C:\\Users\\wende\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wende\\Desktop\\Programação\\C#\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas\\obj\\",
+      "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas.csproj",
+      "packagesPath": "C:\\Users\\Wendell\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\wende\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Wendell\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
