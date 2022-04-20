@@ -63,16 +63,17 @@ namespace POO_MemoriaArrayListas
             int n = int.Parse(Console.ReadLine());
 
             Produto[] vet = new Produto[n];
-
+            
             for (int i = 0; i < n; i++)
             {
                 Console.Write("Informe o nome do Produto: ");
                 string name = Console.ReadLine();
-
+                
                 Console.Write("Informe o preço do Produto: ");
                 double price = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-                vet[i] = new Produto { Name = name, Price = price };
+                vet[i] = new Produto(name, price) { Name = name, Price = price };
+       
                 Console.WriteLine();
             }
             double sum = 0.0;
@@ -82,7 +83,7 @@ namespace POO_MemoriaArrayListas
             }
 
             double media = sum/ n;
-            Console.WriteLine("Media: " + media.ToString("F2, CultureInfo.InvariantCulture"));
+            Console.WriteLine("Media: " + media.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }
