@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>POO_MemoriaArrayListas._73_ModifDeParamRefEOut</StartupObject>
+    <StartupObject>POO_MemoriaArrayListas._76_Listas</StartupObject>
   </PropertyGroup>
 
 </Project>
