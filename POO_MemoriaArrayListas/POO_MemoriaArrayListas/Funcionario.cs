@@ -10,7 +10,7 @@ namespace POO_MemoriaArrayListas
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public double Salary { get; private set; }
+        public double Salary { get; set; }
 
         public Funcionario(int id, string name, double salary)
         {
@@ -19,6 +19,9 @@ namespace POO_MemoriaArrayListas
             Salary = salary;
         }
 
-
+        public void increaseSalary(double porc)
+        {
+            Salary += Salary * (porc / 100); 
+        }
     }
 }

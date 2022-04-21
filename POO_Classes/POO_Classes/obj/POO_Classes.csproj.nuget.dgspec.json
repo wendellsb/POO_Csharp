@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wende\\Desktop\\Programação\\C#\\POO_Classes\\POO_Classes\\POO_Classes.csproj": {}
+    "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_Classes\\POO_Classes\\POO_Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wende\\Desktop\\Programação\\C#\\POO_Classes\\POO_Classes\\POO_Classes.csproj": {
+    "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_Classes\\POO_Classes\\POO_Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wende\\Desktop\\Programação\\C#\\POO_Classes\\POO_Classes\\POO_Classes.csproj",
+        "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_Classes\\POO_Classes\\POO_Classes.csproj",
         "projectName": "POO_Classes",
-        "projectPath": "C:\\Users\\wende\\Desktop\\Programação\\C#\\POO_Classes\\POO_Classes\\POO_Classes.csproj",
-        "packagesPath": "C:\\Users\\wende\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wende\\Desktop\\Programação\\C#\\POO_Classes\\POO_Classes\\obj\\",
+        "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_Classes\\POO_Classes\\POO_Classes.csproj",
+        "packagesPath": "C:\\Users\\Wendell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_Classes\\POO_Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\wende\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Wendell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,8 @@
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_TopicosEspeciais_Parte1\POO_TopicosEspeciais_Parte1\bin\Debug\POO_TopicosEspeciais_Parte1.exe.config
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_TopicosEspeciais_Parte1\POO_TopicosEspeciais_Parte1\bin\Debug\POO_TopicosEspeciais_Parte1.exe
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_TopicosEspeciais_Parte1\POO_TopicosEspeciais_Parte1\bin\Debug\POO_TopicosEspeciais_Parte1.pdb
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_TopicosEspeciais_Parte1\POO_TopicosEspeciais_Parte1\obj\Debug\POO_TopicosEspeciais_Parte1.csproj.AssemblyReference.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_TopicosEspeciais_Parte1\POO_TopicosEspeciais_Parte1\obj\Debug\POO_TopicosEspeciais_Parte1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_TopicosEspeciais_Parte1\POO_TopicosEspeciais_Parte1\obj\Debug\POO_TopicosEspeciais_Parte1.csproj.CoreCompileInputs.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_TopicosEspeciais_Parte1\POO_TopicosEspeciais_Parte1\obj\Debug\POO_TopicosEspeciais_Parte1.exe
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_TopicosEspeciais_Parte1\POO_TopicosEspeciais_Parte1\obj\Debug\POO_TopicosEspeciais_Parte1.pdb
