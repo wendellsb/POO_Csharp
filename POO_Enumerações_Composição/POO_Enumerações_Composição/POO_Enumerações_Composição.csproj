@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{47E87E3F-0790-4DDF-80BF-33E1CDB92EA3}</ProjectGuid>
+    <ProjectGuid>{40065F8A-76EE-4BE3-85E2-DACFE83238C3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>POO_TopicosEspeciais_Parte1</RootNamespace>
-    <AssemblyName>POO_TopicosEspeciais_Parte1</AssemblyName>
+    <RootNamespace>POO_Enumerações_Composição</RootNamespace>
+    <AssemblyName>POO_Enumerações_Composição</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -32,9 +32,6 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>POO_TopicosEspeciais_Parte1._91_Propriedades_Operacoes_DateTime</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -46,13 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="86_Switch_Case.cs" />
-    <Compile Include="87_Condicional_Ternaria.cs" />
-    <Compile Include="88_Funcoes_String.cs" />
-    <Compile Include="89_DateTime.cs" />
-    <Compile Include="90_TimeSpan.cs" />
-    <Compile Include="91_Propriedades_Operacoes_DateTime.cs" />
-    <Compile Include="92_Propriedades_Operacoes_TimeSpan.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
