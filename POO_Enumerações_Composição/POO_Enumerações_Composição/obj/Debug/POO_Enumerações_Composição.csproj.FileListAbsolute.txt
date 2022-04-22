@@ -1,0 +1,8 @@
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Enumerações_Composição\POO_Enumerações_Composição\bin\Debug\POO_Enumerações_Composição.exe.config
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Enumerações_Composição\POO_Enumerações_Composição\bin\Debug\POO_Enumerações_Composição.exe
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Enumerações_Composição\POO_Enumerações_Composição\bin\Debug\POO_Enumerações_Composição.pdb
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Enumerações_Composição\POO_Enumerações_Composição\obj\Debug\POO_Enumerações_Composição.csproj.AssemblyReference.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Enumerações_Composição\POO_Enumerações_Composição\obj\Debug\POO_Enumerações_Composição.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Enumerações_Composição\POO_Enumerações_Composição\obj\Debug\POO_Enumerações_Composição.csproj.CoreCompileInputs.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Enumerações_Composição\POO_Enumerações_Composição\obj\Debug\POO_Enumerações_Composição.exe
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Enumerações_Composição\POO_Enumerações_Composição\obj\Debug\POO_Enumerações_Composição.pdb
