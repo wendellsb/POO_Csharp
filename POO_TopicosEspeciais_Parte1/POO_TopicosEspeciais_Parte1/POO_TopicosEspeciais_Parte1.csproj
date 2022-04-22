@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>POO_TopicosEspeciais_Parte1._87_Condicional_Ternaria</StartupObject>
+    <StartupObject>POO_TopicosEspeciais_Parte1._90_TimeSpan</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,9 @@
   <ItemGroup>
     <Compile Include="86_Switch_Case.cs" />
     <Compile Include="87_Condicional_Ternaria.cs" />
+    <Compile Include="88_Funcoes_String.cs" />
+    <Compile Include="89_DateTime.cs" />
+    <Compile Include="90_TimeSpan.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
