@@ -17,7 +17,10 @@ namespace POO_Enumerações_Composição
             };
             Console.WriteLine(order);
 
+            // convertendo o pendingpayment para string
             string txt = OrderStatus.PendingPayment.ToString();
+
+            // convertendo o string para enum
             OrderStatus os = (OrderStatus)Enum.Parse(typeof(OrderStatus), "Delivered");
 
             Console.WriteLine(txt);
