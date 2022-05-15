@@ -1,4 +1,4 @@
-﻿namespace POO_Enumerações_Composição.Entities.Enums
+﻿namespace POO_Enumerações_Composição._128_Entities.Enums
 {
     enum WorkerLevel : int
     {

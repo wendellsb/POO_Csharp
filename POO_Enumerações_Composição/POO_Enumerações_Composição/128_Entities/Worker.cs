@@ -1,7 +1,8 @@
-﻿using POO_Enumerações_Composição.Entities.Enums;
+﻿using POO_Enumerações_Composição._128_Entities;
+using POO_Enumerações_Composição._128_Entities.Enums;
 using System.Collections.Generic;
 
-namespace POO_Enumerações_Composição.Entities
+namespace POO_Enumerações_Composição._128_Entities
 {
     internal class Worker
     {

@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>POO_Enumerações_Composição._124_Enumeracoes</StartupObject>
+    <StartupObject>POO_Enumerações_Composição.Program</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,18 +46,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="124_Enumeracoes.cs" />
+    <Compile Include="124_Entities\124_Enumeracoes.cs" />
     <Compile Include="124_Entities\Enums\OrderStatus.cs" />
     <Compile Include="124_Entities\Order.cs" />
-    <Compile Include="Entities\Department.cs" />
-    <Compile Include="Entities\Enums\WorkerLevel.cs" />
-    <Compile Include="Entities\HourContract.cs" />
-    <Compile Include="Entities\Worker.cs" />
+    <Compile Include="128_Entities\Department.cs" />
+    <Compile Include="128_Entities\Enums\WorkerLevel.cs" />
+    <Compile Include="128_Entities\HourContract.cs" />
+    <Compile Include="128_Entities\Programa.cs" />
+    <Compile Include="128_Entities\Worker.cs" />
+    <Compile Include="131_Exercicio\Entities\Comment.cs" />
+    <Compile Include="131_Exercicio\Entities\Post.cs" />
+    <Compile Include="131_Exercicio\Programa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

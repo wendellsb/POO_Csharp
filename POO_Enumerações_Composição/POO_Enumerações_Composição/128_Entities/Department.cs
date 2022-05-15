@@ -1,4 +1,4 @@
-﻿namespace POO_Enumerações_Composição.Entities
+﻿namespace POO_Enumerações_Composição._128_Entities
 {
     public class Department
     {
