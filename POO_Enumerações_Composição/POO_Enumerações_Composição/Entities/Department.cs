@@ -1,6 +1,6 @@
 ﻿namespace POO_Enumerações_Composição.Entities
 {
-    internal class Department
+    public class Department
     {
         public string Name { get; set; }
 

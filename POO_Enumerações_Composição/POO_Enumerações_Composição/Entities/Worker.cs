@@ -22,15 +22,20 @@ namespace POO_Enumerações_Composição.Entities
             Department = department;
         }
 
+        // cria a função AddContract passando como parametro um contract do tipo HoutContract
+        // depois acessa a lista de Contracts e com .Add adiciona o contrato passado por parametro a lista
         public void AddContract(HourContract contract)
         {
             Contracts.Add(contract);
         }
+
+        // como na função acima porem utilizando o remove para remover um contrato da lista de contratos
         public void RemoveContract(HourContract contract)
         {
             Contracts.Remove(contract);
         }
 
+        //income significa ganho
         public double Income(int year, int month)
         {
             double sum = BaseSalary;
