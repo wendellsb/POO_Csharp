@@ -1,32 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas.csproj": {}
+    "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_Herança_Polimorfismo\\POO_Herança_Polimorfismo\\POO_Herança_Polimorfismo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas.csproj": {
+    "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_Herança_Polimorfismo\\POO_Herança_Polimorfismo\\POO_Herança_Polimorfismo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas.csproj",
-        "projectName": "POO_MemoriaArrayListas",
-        "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas.csproj",
+        "projectUniqueName": "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_Herança_Polimorfismo\\POO_Herança_Polimorfismo\\POO_Herança_Polimorfismo.csproj",
+        "projectName": "POO_Herança_Polimorfismo",
+        "projectPath": "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_Herança_Polimorfismo\\POO_Herança_Polimorfismo\\POO_Herança_Polimorfismo.csproj",
         "packagesPath": "C:\\Users\\Wendell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_MemoriaArrayListas\\POO_MemoriaArrayListas\\obj\\",
+        "outputPath": "C:\\Users\\Wendell\\Desktop\\Programação\\POO_Csharp\\POO_Herança_Polimorfismo\\POO_Herança_Polimorfismo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Wendell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net5.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net5.0": {
+            "targetAlias": "net5.0",
             "projectReferences": {}
           }
         },
@@ -37,8 +37,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "imports": [
             "net461",
             "net462",
