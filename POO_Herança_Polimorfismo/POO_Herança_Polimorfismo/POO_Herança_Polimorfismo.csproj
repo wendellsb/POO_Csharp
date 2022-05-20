@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>POO_Herança_Polimorfismo._136.Run</StartupObject>
+    <StartupObject>POO_Herança_Polimorfismo._137_Sobreposicao.Run</StartupObject>
   </PropertyGroup>
 
 </Project>

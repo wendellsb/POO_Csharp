@@ -1,11 +1,7 @@
-﻿using POO_Herança_Polimorfismo._136.Entities;
+﻿using POO_Herança_Polimorfismo._136_Upcasting_Downcasting.Entities;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace POO_Herança_Polimorfismo._136
+namespace POO_Herança_Polimorfismo._136_Upcasting_Downcasting
 {
     class Run
     {
@@ -39,7 +35,7 @@ namespace POO_Herança_Polimorfismo._136
             //BusinessAccount acc5 = (BusinessAccount)acc3; erro de converção
 
             // testa se a variavel acc3 for uma instancia de BusinessAccount
-            if ( acc3 is BusinessAccount ) // "is" - testa se acc3 é do tipo BusinessAccount
+            if (acc3 is BusinessAccount) // "is" - testa se acc3 é do tipo BusinessAccount
             {
                 //BusinessAccount acc5 = (BusinessAccount)acc3;
                 BusinessAccount acc5 = acc3 as BusinessAccount; // "as" - testa se acc3 é como BusinessAccount
@@ -47,7 +43,7 @@ namespace POO_Herança_Polimorfismo._136
                 Console.WriteLine("Loan!");
             }
 
-            if( acc3 is SavingsAccount)
+            if (acc3 is SavingsAccount)
             {
                 // SavingsAccount acc5 = (SavingsAccount)acc3;
                 SavingsAccount acc5 = acc3 as SavingsAccount; // "as" - testa se acc3 é como SavingsAccount

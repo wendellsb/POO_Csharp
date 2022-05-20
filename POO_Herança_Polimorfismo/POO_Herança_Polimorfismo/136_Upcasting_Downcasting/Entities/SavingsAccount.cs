@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace POO_Herança_Polimorfismo._136.Entities
+﻿namespace POO_Herança_Polimorfismo._136_Upcasting_Downcasting.Entities
 {
     public class SavingsAccount : Account
     {
@@ -14,7 +8,7 @@ namespace POO_Herança_Polimorfismo._136.Entities
         {
         }
 
-        public SavingsAccount(int number, string holder, double balance, double interestRate) 
+        public SavingsAccount(int number, string holder, double balance, double interestRate)
             : base(number, holder, balance) // aproveitando o construtor da classe account
         {
             InterestRate = interestRate;

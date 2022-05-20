@@ -1,4 +1,4 @@
-﻿namespace POO_Herança_Polimorfismo._135.Entities
+﻿namespace POO_Herança_Polimorfismo._138_Sealed.Entities
 {
     public class Account
     {
@@ -17,9 +17,10 @@
             Balance = balance;
         }
 
-        public void Withdraw(double amount)
+        // virtual - informa que o metodo pode ser subscrito ou sobreposto nas subclasses
+        public virtual void Withdraw(double amount) 
         {
-            Balance -= amount;
+            Balance -= amount + 5.0;
         }
 
         public void Deposit(double amount)
