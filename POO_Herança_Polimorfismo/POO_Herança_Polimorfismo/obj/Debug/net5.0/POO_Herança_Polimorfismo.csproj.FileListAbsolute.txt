@@ -1,0 +1,16 @@
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\bin\Debug\net5.0\POO_Herança_Polimorfismo.exe
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\bin\Debug\net5.0\POO_Herança_Polimorfismo.deps.json
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\bin\Debug\net5.0\POO_Herança_Polimorfismo.runtimeconfig.json
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\bin\Debug\net5.0\POO_Herança_Polimorfismo.runtimeconfig.dev.json
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\bin\Debug\net5.0\POO_Herança_Polimorfismo.dll
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\bin\Debug\net5.0\POO_Herança_Polimorfismo.pdb
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\obj\Debug\net5.0\POO_Herança_Polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\obj\Debug\net5.0\POO_Herança_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\obj\Debug\net5.0\POO_Herança_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\obj\Debug\net5.0\POO_Herança_Polimorfismo.AssemblyInfo.cs
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\obj\Debug\net5.0\POO_Herança_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\obj\Debug\net5.0\POO_Herança_Polimorfismo.dll
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\obj\Debug\net5.0\refint\POO_Herança_Polimorfismo.dll
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\obj\Debug\net5.0\POO_Herança_Polimorfismo.pdb
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\obj\Debug\net5.0\POO_Herança_Polimorfismo.genruntimeconfig.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Herança_Polimorfismo\POO_Herança_Polimorfismo\obj\Debug\net5.0\ref\POO_Herança_Polimorfismo.dll

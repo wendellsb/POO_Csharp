@@ -6,7 +6,7 @@ namespace POO_Herança_Polimorfismo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
