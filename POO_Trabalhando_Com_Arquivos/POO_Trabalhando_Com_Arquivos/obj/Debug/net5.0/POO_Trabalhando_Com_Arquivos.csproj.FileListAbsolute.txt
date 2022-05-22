@@ -1,0 +1,16 @@
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\bin\Debug\net5.0\POO_Trabalhando_Com_Arquivos.exe
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\bin\Debug\net5.0\POO_Trabalhando_Com_Arquivos.deps.json
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\bin\Debug\net5.0\POO_Trabalhando_Com_Arquivos.runtimeconfig.json
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\bin\Debug\net5.0\POO_Trabalhando_Com_Arquivos.runtimeconfig.dev.json
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\bin\Debug\net5.0\POO_Trabalhando_Com_Arquivos.dll
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\bin\Debug\net5.0\POO_Trabalhando_Com_Arquivos.pdb
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\obj\Debug\net5.0\POO_Trabalhando_Com_Arquivos.csproj.AssemblyReference.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\obj\Debug\net5.0\POO_Trabalhando_Com_Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\obj\Debug\net5.0\POO_Trabalhando_Com_Arquivos.AssemblyInfoInputs.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\obj\Debug\net5.0\POO_Trabalhando_Com_Arquivos.AssemblyInfo.cs
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\obj\Debug\net5.0\POO_Trabalhando_Com_Arquivos.csproj.CoreCompileInputs.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\obj\Debug\net5.0\POO_Trabalhando_Com_Arquivos.dll
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\obj\Debug\net5.0\refint\POO_Trabalhando_Com_Arquivos.dll
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\obj\Debug\net5.0\POO_Trabalhando_Com_Arquivos.pdb
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\obj\Debug\net5.0\POO_Trabalhando_Com_Arquivos.genruntimeconfig.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Trabalhando_Com_Arquivos\POO_Trabalhando_Com_Arquivos\obj\Debug\net5.0\ref\POO_Trabalhando_Com_Arquivos.dll
