@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>POO_Tratamentos_Exceções._150_Try_Catch.Run</StartupObject>
+    <StartupObject>POO_Tratamentos_Exceções._152_Exceções_Personalizadas.Run</StartupObject>
   </PropertyGroup>
 
 </Project>
