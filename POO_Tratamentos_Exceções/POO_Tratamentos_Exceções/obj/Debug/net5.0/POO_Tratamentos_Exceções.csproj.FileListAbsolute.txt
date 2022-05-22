@@ -1,0 +1,16 @@
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\bin\Debug\net5.0\POO_Tratamentos_Exceções.exe
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\bin\Debug\net5.0\POO_Tratamentos_Exceções.deps.json
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\bin\Debug\net5.0\POO_Tratamentos_Exceções.runtimeconfig.json
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\bin\Debug\net5.0\POO_Tratamentos_Exceções.runtimeconfig.dev.json
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\bin\Debug\net5.0\POO_Tratamentos_Exceções.dll
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\bin\Debug\net5.0\POO_Tratamentos_Exceções.pdb
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\obj\Debug\net5.0\POO_Tratamentos_Exceções.csproj.AssemblyReference.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\obj\Debug\net5.0\POO_Tratamentos_Exceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\obj\Debug\net5.0\POO_Tratamentos_Exceções.AssemblyInfoInputs.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\obj\Debug\net5.0\POO_Tratamentos_Exceções.AssemblyInfo.cs
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\obj\Debug\net5.0\POO_Tratamentos_Exceções.csproj.CoreCompileInputs.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\obj\Debug\net5.0\POO_Tratamentos_Exceções.dll
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\obj\Debug\net5.0\refint\POO_Tratamentos_Exceções.dll
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\obj\Debug\net5.0\POO_Tratamentos_Exceções.pdb
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\obj\Debug\net5.0\POO_Tratamentos_Exceções.genruntimeconfig.cache
+C:\Users\Wendell\Desktop\Programação\POO_Csharp\POO_Tratamentos_Exceções\POO_Tratamentos_Exceções\obj\Debug\net5.0\ref\POO_Tratamentos_Exceções.dll
