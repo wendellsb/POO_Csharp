@@ -27,18 +27,25 @@ namespace POO_Trabalhando_Com_Arquivos._196_FileStream_StreamReader
             // - File / FileInfo
 
             string path = @"C:\Users\Wendell\Desktop\Programação\file1.txt.txt";
-            FileStream fs = null;
             StreamReader sr = null;
 
             try
             {
-                fs = new FileStream(path, FileMode.Open);
-                sr = new StreamReader(fs);
-
+                sr = File.OpenText(path);
+                string line = sr.ReadLine();
+                Console.WriteLine(line);
             }
-            catch
+            catch (IOException e)
             {
-
+                Console.WriteLine("An error accurred");
+                Console.WriteLine(e.Message);
+            }
+            finally
+            {
+                if (sr != null)
+                {
+                    sr.Close();
+                }
             }
         }
     }
